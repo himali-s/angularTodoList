@@ -1,0 +1,9 @@
+ng serve --open 
+ng generate component folder_name 
+you can generate component by 
+ng g c 
+ng g s services/todo => creates a todo service in services/todo folder  g stands for generate and s for service
+Angular Pipes can be helpful to make the content uppercase
+Constructor in angular is used majorly to import services.
+NgOnInit can be used to make things works as soon as the program is loaded. Just as in React we use, componentDidMount()
+
